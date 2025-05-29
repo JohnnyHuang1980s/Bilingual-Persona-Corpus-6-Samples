@@ -1,3 +1,15 @@
+---
+language:
+  - zh
+  - en
+license: creativeml-openrail-m
+tags:
+  - bilingual
+  - dialogue
+  - language-modeling
+  - cognitive-modeling
+---
+
 # Bilingual-Persona-Corpus-6-Samples
 These 6 samples are cleared for public research, non-commercial reuse, and educational modeling under **CreativeML Open RAIL-M License**.
 
